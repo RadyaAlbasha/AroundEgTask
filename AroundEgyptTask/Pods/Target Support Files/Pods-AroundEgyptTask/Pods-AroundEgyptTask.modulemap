@@ -1,0 +1,6 @@
+framework module Pods_AroundEgyptTask {
+  umbrella header "Pods-AroundEgyptTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
